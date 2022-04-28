@@ -1,4 +1,4 @@
 a = 1
 b = 2
 sum = a + b 
-puts sum
+puts "The sum is: #{sum}"
